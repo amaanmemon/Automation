@@ -37,14 +37,14 @@ var list = exports.list = {
         var smtpTransport = nodemailer.createTransport("SMTP", {
             service: "Gmail",
             auth: {
-                user: "amaan.memon@raweng.com",
-                pass: "9322035486"
+                user: "you@gmail.com",
+                pass: "*****"
             }
         });
 
         var mailOptions = {
-            from: "Amaan Memon <amaan.memon@raweng.com>",
-            to: "amaan.memon@gmail.com, ",
+            from: "yourname <you@gmail.com>",
+            to: "send@gmail.com, ",
             subject: "Testing Report",
             html: "<b>Hi Team,</b><br><br>PFA Report<br><br>Thanks,<br>Amaan",
             attachments: [{
