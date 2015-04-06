@@ -1,0 +1,112 @@
+{
+    "authenticated": [
+        "VM_Daily_Highlights_01",
+        "VM_Daily_Highlights_03",
+        "VM_Daily_Highlights_04"
+    ],
+    "un_authenticated": [
+    
+     {
+        "Test_Case_01": [
+             "Web_Chrome",
+             "VM_Sleep"
+        ]
+    },
+    {
+        "Result": [
+            "VM_Video_Record_Stop",
+             "VM_Final_Result",
+             "VM_Send_Mail"
+ 
+        ]
+    }],
+
+    "default": [
+        "VM_Daily_Highlights_01",
+        "VM_Daily_Highlights_03",
+        "VM_Daily_Highlights_04"
+    ],
+
+    "amaan": [
+      "VM_DontAllow_Push_Notifications",
+        "VM_Sleep",
+        "VM_Left_Menu_Click",
+        "Reset_App",
+        "VM_Left_Menu_Click",
+        "VM_Left_Menu_Scroll",
+        "VM_Back",
+        "VM_Sleep",
+        "VM_Left_Menu_Click",
+        "VM_Login_Verify",
+        "VM_Login_Click",
+        "VM_Sleep",
+        "VM_Enter_Valid_Credentials_username",
+        "VM_Enter_Valid_Credentials_password",
+        "VM_Back",
+        "VM_Sleep",
+        "VM_Click_LoginPage",
+        "VM_Sleep",
+        "VM_Left_Menu_Click",
+        "VM_Sleep",
+        "VM_Click_Social_Media", 
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Click_Social_Media_elements",
+        "VM_Social_Media_Click_Cancel",
+        "VM_Back",
+        "VM_Left_Menu_Click",
+        "VM_Notes",
+        "VM_New_Notes",
+        "VM_New_Notes_Add_image",
+        "VM_New_Notes_Add_image_takepic",
+        "VM_New_Notes_shutterbutton",
+        "VM_New_Notes_shutterbutton",
+        "VM_Sleep",
+        "VM_Back",
+        "VM_New_Notes_Title",
+        "VM_Back",
+        "VM_New_Notes_Description",
+        "VM_New_Notes_Save",
+        "VM_Back",
+        "VM_Left_Menu_Click",
+        "VM_Click_Social_Media", 
+        "VM_Social_Media_Imp_Links",
+        "VM_Social_Media_Twitter",
+        "VM_Social_Media_Videos",
+        "VM_Social_Media_Networking_Opportunities",
+        "VM_Social_Media_Partner_Link",
+        "VM_Social_Media_Facebook",
+        "VM_Social_Media_LinkedIn",
+        "VM_Social_Media_Imp_Links_Scroll",
+        "VM_Social_Media_VMWare_Partner_Tv",
+        "VM_Sleep",
+        "VM_Back",
+        "VM_Left_Menu_Click",
+        "VM_Click_Sessions",  
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Search_Sessions",
+        "VM_Input_Search_Sessions",
+        "VM_Click_Input_Search_Sessions",
+        "VM_Search_Keyboard",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Back",
+        "VM_Back",
+        "VM_Left_Menu_Click",
+        "VM_Click_Daily_Highlights",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Final_Result",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Sleep",
+        "VM_Send_Mail"   
+    ]
+
+}

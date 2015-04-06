@@ -1,0 +1,49 @@
+
+{
+	"build_file_path_ios": "users/.../myapp.ipa",
+	"build_file_path": "myapp.apk",
+	"execute": "flow",
+	"servers": {
+		"local": {
+			"host": "172.16.0.220",
+			"port": 4723
+		}
+	},
+	"environments": {
+		"ios81": {
+			"browserName": "",
+			"appium-version": "1.3",
+			"platformName": "iOS",
+			"platformVersion": "8.1.1",
+			"deviceName": "Amaan Memon’s iPad",
+			"app": ""
+		},
+		"android18": {
+			"browserName": "",
+			"appium-version": "1.3",
+			"platformName": "Android",
+			"platformVersion": "4.4.2",
+			"deviceName": "FA464WM06593",
+			"app": ""
+		},
+		"android19": {
+			"browserName": "Chrome",
+			"appium-version": "1.3",
+			"platformName": "Android",
+			"platformVersion": "4.4.2",
+			"deviceName": "FA464WM06593"
+		},
+		"selendroid16": {
+			"browserName": "",
+			"appium-version": "1.3",
+			"platformName": "Android",
+			"platformVersion": "4.1",
+			"automationName": "selendroid",
+			"deviceName": "Android Emulator",
+			"app": ""
+		}
+	},
+	"session": {
+		"is_authenticated": false
+	}
+}
